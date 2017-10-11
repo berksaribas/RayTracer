@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RayTracerBerkSaribas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RayTracerBerkSaribas_jar</output-path>
+    <root id="archive" name="RayTracerBerkSaribas.jar">
+      <element id="module-output" name="RayTracerBerkSaribas" />
+    </root>
+  </artifact>
+</component>
